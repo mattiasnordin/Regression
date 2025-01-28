@@ -4,7 +4,7 @@
 
 **Description**: A cross-section of apartment sales in Sweden from the year 2015. Data have been modified and slightly altered such that individual apartments cannot be identified. Hence, data should not be used for research purposes.
 
-**Source**: The data originally come from Svensk Mäklarstatistik (https://www.maklarstatistik.se/). Only a subset of the variables in their data is used. Data have been processed and modified by the R package author and Svensk Mäklarstatistik does not bear any responsibility for the final data.
+**Source**: The data originally come from Svensk Mäklarstatistik (https://www.maklarstatistik.se/). Only a subset of the variables in their data is used. Data have been processed and modified and Svensk Mäklarstatistik does not bear any responsibility for the final data.
 
 **Variable list**:
 

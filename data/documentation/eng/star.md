@@ -4,7 +4,7 @@
 
 **Description**: A cross-section of data on pupils that were included in the Tennessee's Student Teacher Achievement Ratio (STAR) project.
 
-**Source**: Data come from the Harvard Dataverse (https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10766). Data have been processed by the R package author and only an excerpt of the data are used. The provider of the raw data does not bear any responsibility for the final data.
+**Source**: Data come from the Harvard Dataverse (https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10766). Data have been processed and only an excerpt of the data are used. The provider of the raw data does not bear any responsibility for the final data.
 
 **Variable list**:
 

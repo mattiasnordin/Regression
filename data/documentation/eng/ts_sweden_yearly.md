@@ -4,7 +4,7 @@
 
 **Description**: Swedish yearly time-series data from 1970 to 2020.
 
-**Source**: Data come from Statistics Sweden's Statistical database (https://www.statistikdatabasen.scb.se/pxweb/en/ssd/). Data have been processed by the R package author and Statistics Sweden does not bear any responsibility for the final data.
+**Source**: Data come from Statistics Sweden's Statistical database (https://www.statistikdatabasen.scb.se/pxweb/en/ssd/). Data have been processed and Statistics Sweden does not bear any responsibility for the final data.
 
 **Variable list**:
 

@@ -4,7 +4,7 @@
 
 **Description**: Daily time-series data on weather and pollution from the San Francsisco area in the US from January 1st 2010 to December 31st 2021.
 
-**Source**: Pollution data come from the United States Environmental Protection Agency, while weather data come from NCEP North American Regional Reanalysis (NARR), provided by NOAA PSL, Boulder, Colorado, USA. Data have been processed by the R package author and neither EPA nor NOAA bear any responsibility for the final data.
+**Source**: Pollution data come from the United States Environmental Protection Agency, while weather data come from NCEP North American Regional Reanalysis (NARR), provided by NOAA PSL, Boulder, Colorado, USA. Data have been processed and neither EPA nor NOAA bear any responsibility for the final data.
 
 **Variable list**:
 

@@ -4,7 +4,7 @@
 
 **Description**: Data on Swedish elementary schools for the school year 2022/23.
 
-**Source**: Data on school level come from the Swedish National Agency for Education (https://www.skolverket.se/skolutveckling/statistik/sok-statistik-om-forskola-skola-och-vuxenutbildning?sok=SokC) and is complemented with municipal data from Statistics Sweden's Statistical database (https://www.statistikdatabasen.scb.se/pxweb/en/ssd/). Data have been processed by the R package author and neither the Swedish National Agency for Education nor Statistics Sweden bear any responsibility for the final data.
+**Source**: Data on school level come from the Swedish National Agency for Education (https://www.skolverket.se/skolutveckling/statistik/sok-statistik-om-forskola-skola-och-vuxenutbildning?sok=SokC) and is complemented with municipal data from Statistics Sweden's Statistical database (https://www.statistikdatabasen.scb.se/pxweb/en/ssd/). Data have been processed and neither the Swedish National Agency for Education nor Statistics Sweden bear any responsibility for the final data.
 
 **Variable list**:
 

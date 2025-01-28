@@ -4,7 +4,7 @@
 
 **Description**: A cross-section of data for the 290 Swedish municipalities for the year 2022.
 
-**Source**: Most of the data come from Statistics Sweden's Statistical database (https://www.statistikdatabasen.scb.se/pxweb/en/ssd/). Data on political coalitions at the municipal level come from the Swedish Association of Local Authorities and Regions (https://catalog.skl.se/catalog/1/datasets/27). Data have been processed by the R package author and neither Statistics Sweden nor the Swedish Association of Local Authorities and Regions bear any responsibility for the final data.
+**Source**: Most of the data come from Statistics Sweden's Statistical database (https://www.statistikdatabasen.scb.se/pxweb/en/ssd/). Data on political coalitions at the municipal level come from the Swedish Association of Local Authorities and Regions (https://catalog.skl.se/catalog/1/datasets/27). Data have been processed and neither Statistics Sweden nor the Swedish Association of Local Authorities and Regions bear any responsibility for the final data.
 
 **Variable list**:
 

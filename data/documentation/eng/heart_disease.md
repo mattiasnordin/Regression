@@ -4,7 +4,7 @@
 
 **Description**: A cross-section of data on heart disease from a clinic in Cleveland, USA, collected during the years 1981-1984. 
 
-**Source**: Data come from UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/dataset/45/heart+disease/), with the original paper being Detrano et al. (1989): "International application of a new probability algorithm for the diagnosis of coronary artery disease," The American Journal of Cardiology, 64 (5). Data have been processed by the R package author and only an excerpt of the data are used. Neither the original authors, nor the provider of the raw data, bear any responsibility for the final data.
+**Source**: Data come from UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/dataset/45/heart+disease/), with the original paper being Detrano et al. (1989): "International application of a new probability algorithm for the diagnosis of coronary artery disease," The American Journal of Cardiology, 64 (5). Data have been processed and only an excerpt of the data are used. Neither the original authors, nor the provider of the raw data, bear any responsibility for the final data.
 
 **Variable list**:
 
